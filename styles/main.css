@@ -47,3 +47,12 @@ body{
       width: 80%;
     }
   }
+
+  .card2{
+    width: 100%;
+
+    position: absolute;
+    bottom: 1%;
+    left: 40%;
+    
+  }

@@ -56,3 +56,9 @@ body{
     left: 40%;
     
   }
+
+  @media screen and (max-width: 800px) {
+    .card2 {
+      width: 35%;
+    }
+  }
